@@ -1,0 +1,3 @@
+select * from tblname
+delete tblname
+update tblname set Name = '' where id=1
